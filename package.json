@@ -1,0 +1,17 @@
+{
+  "name": "my-gridsome-blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-strapi": "^0.2.0",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "axios": "^0.21.1",
+    "gridsome": "^0.7.0",
+    "markdown-it": "^12.0.4",
+    "pngquant": "^3.1.0"
+  }
+}
